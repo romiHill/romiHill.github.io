@@ -1,0 +1,231 @@
+
+
+::-webkit-input-placeholder { /* Chrome */
+	color: #ffffff ;
+	opacity: 0.3 ;
+}
+
+body {
+
+    background-color: #ffaaaa ;
+
+	/* Text font */
+    color: #444444 ;
+	font-family: "Anonymous Pro", sans-serif ; /* Primary font and back-ups */
+	  font-style: normal ; /* normal, italic, or oblique */
+	  font-weight: normal ; /* normal or bold */
+      font-size: 1em ; /* 1em = 16px */
+      line-height: 1.5em;
+	  font-variant: normal ; /* Set to small-caps to enable all-caps text */
+
+    /* -webkit-animation: fadein 2s; Safari and Chrome */
+
+
+}
+/* index.html */
+#cont-0 {
+    position: relative ;
+    top: 224px ;
+    right: 184px ;
+
+    width: 364px ;
+    height: 220px ;
+    margin: auto ;
+
+    border: 2px solid #ffffff ;
+    background-color: #ffcccc ;
+
+}
+
+#cont-1 {
+    position: relative ;
+    bottom: 224px ;
+    left: 240px ;
+
+    width: 182px ;
+    height: 224px ;
+    margin: auto ;
+
+    /* border: 2px solid #ffffff ; */
+    background-color: #ffcccc ;
+
+}
+
+#links-about {
+    position: relative ;
+    bottom: 0px ;
+    left: 240px ;
+
+    width: 182px ;
+    height: 224px ;
+    margin: auto ;
+
+    /* border: 2px solid #ffffff ; */
+    background-color: #ffcccc ;
+
+}
+
+#img-box-0 {
+    position: relative ;
+    left: 70px ;
+
+    width: 124px ;
+    height: 220px ;
+    margin: auto ;
+    
+    border: 2px solid #ffffff ;
+}
+
+#img {
+    position: absolute ;
+    width: 100% ;
+    height: auto ;
+    max-width:500px;
+}
+
+/* Search Bar Settings */
+
+#s-text {
+    /* Box position */
+    position: absolute ;
+
+
+    /* ------------ */
+	
+    /* Box size */
+	padding: 6px 6px 6px 6px ; /* Space between box and text. top/right/down/left */
+	width: 352px ; /* Determines the width of the box */
+	/* -------- */
+
+	/* Text and Box colour */
+	  color: #b1b1b1 ;
+	  border: 0px solid #ffffff ;
+	  background-color: #444444 ;
+	/* ------------------- */
+
+	/* Text font */
+	font-family: "Anonymous Pro", sans-serif ; /* Primary font and back-ups */
+	  font-style: normal ; /* normal, italic, or oblique */
+	  font-weight: normal ; /* normal or bold */
+	  font-size: 1em ; /* 1em = 16px */
+	  font-variant: normal ; /* Set to small-caps to enable all-caps text */
+
+	text-align: center ;
+	/* --------- */
+}
+
+#s-text-about {
+    /* Box position */
+    position: absolute ;
+
+
+    /* ------------ */
+	
+    /* Box size */
+	padding: 6px 6px 6px 6px ; /* Space between box and text. top/right/down/left */
+	width: 484px ; /* Determines the width of the box */
+	/* -------- */
+
+	/* Text and Box colour */
+	  color: #b1b1b1 ;
+	  border: 0px solid #ffffff ;
+	  background-color: #444444 ;
+	/* ------------------- */
+
+	/* Text font */
+	font-family: "Anonymous Pro", sans-serif ; /* Primary font and back-ups */
+	  font-style: normal ; /* normal, italic, or oblique */
+	  font-weight: normal ; /* normal or bold */
+	  font-size: 1em ; /* 1em = 16px */
+	  font-variant: normal ; /* Set to small-caps to enable all-caps text */
+
+	text-align: center ;
+	/* --------- */
+}
+
+/* Link Settings */
+.link-box {
+    position: absolute ;
+    top: 24px ;
+    left: 40px ;
+
+    width: 60px ;
+    height: 200px ;
+    margin: 20px ;
+
+}
+
+#links-0 {
+    top: -5px ;
+}
+
+/* Description Settings */
+.desc-box {
+    position: absolute ;
+
+    width: 340px ;
+    height: 200px ;
+    margin: 20px ;
+
+}
+
+#desc-0 {
+    top: 50px ;
+}
+
+.desc-box-about {
+    position: absolute ;
+
+    width: 470px ;
+    height: 200px ;
+    margin: 20px ;
+
+}
+
+#cont-about {
+    position: relative ;
+    top: 224px ;
+    right: 115px ;
+
+    width: 498px ;
+    height: 220px ;
+    margin: auto ;
+
+    border: 2px solid #ffffff ;
+    background-color: #ffcccc ;
+
+}
+
+
+a {
+	color: inherit ;
+	text-decoration: none ;
+    text-align: center ;
+    display: block ;
+    margin-top: 20px ;
+}
+a:hover {
+    font-weight: bold ;
+}
+
+#nf {
+    margin-left: 5px ;
+}
+
+#soundcloud {
+    margin-left: -10px ;
+}
+/* ------------- */
+
+
+
+/* Fade-in Settings */
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+/* ---------------- */
