@@ -22,8 +22,22 @@ body {
 
 
 }
+
+.container{
+	position: absolute;
+	border: 0;
+	height: 85%;
+	width: 75%;
+	margin-left: 13%;
+	margin-right: 13%;
+	top: 5%;
+	display: flex;
+	background: url('images/fishy.gif');
+	background-size: cover;
+}
+
 /* index.html */
-#cont-0 {
+#cont-index {
     position: relative ;
     top: 224px ;
     right: 184px ;
@@ -37,23 +51,9 @@ body {
 
 }
 
-#cont-1 {
+#cont-index-links {
     position: relative ;
     bottom: 224px ;
-    left: 240px ;
-
-    width: 182px ;
-    height: 224px ;
-    margin: auto ;
-
-    /* border: 2px solid #ffffff ; */
-    background-color: #ffcccc ;
-
-}
-
-#links-about {
-    position: relative ;
-    bottom: 0px ;
     left: 240px ;
 
     width: 182px ;
@@ -83,9 +83,7 @@ body {
     max-width:500px;
 }
 
-/* Search Bar Settings */
-
-#s-text {
+#s-text-index {
     /* Box position */
     position: absolute ;
 
@@ -114,10 +112,50 @@ body {
 	/* --------- */
 }
 
-#s-text-about {
+/* pages */
+
+#cont-pages {
+    position: relative ;
+    top: 224px ;
+    right: 115px ;
+
+    width: 498px ;
+    height: 220px ;
+    margin: auto ;
+
+    border: 2px solid #ffffff ;
+    background-color: #ffcccc ;
+
+}
+
+
+.desc-box-pages {
+    position: absolute ;
+    overflow: scroll ;
+
+    width: 470px ;
+    height: 160px ;
+    margin: 20px ;
+
+}
+
+#links-pages {
+    position: relative ;
+    bottom: 0px ;
+    left: 240px ;
+
+    width: 182px ;
+    height: 224px ;
+    margin: auto ;
+
+    /* border: 2px solid #ffffff ; */
+    background-color: #ffcccc ;
+
+}
+
+#s-text-pages {
     /* Box position */
     position: absolute ;
-
 
     /* ------------ */
 	
@@ -170,30 +208,7 @@ body {
 }
 
 #desc-0 {
-    top: 50px ;
-}
-
-.desc-box-about {
-    position: absolute ;
-
-    width: 470px ;
-    height: 200px ;
-    margin: 20px ;
-
-}
-
-#cont-about {
-    position: relative ;
-    top: 224px ;
-    right: 115px ;
-
-    width: 498px ;
-    height: 220px ;
-    margin: auto ;
-
-    border: 2px solid #ffffff ;
-    background-color: #ffcccc ;
-
+    top: 25px ;
 }
 
 
@@ -217,7 +232,11 @@ a:hover {
 }
 /* ------------- */
 
-
+audio {
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+    width: 200px;
+    height: 25px;
+}
 
 /* Fade-in Settings */
 @keyframes fadein {
