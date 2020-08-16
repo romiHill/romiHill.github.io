@@ -18,7 +18,7 @@ body {
       line-height: 1.5em;
 	  font-variant: normal ; /* Set to small-caps to enable all-caps text */
 
-    /* -webkit-animation: fadein 2s; Safari and Chrome */
+    -webkit-animation: fadein 2s; /* Safari and Chrome */
 
 
 }
@@ -134,7 +134,7 @@ body {
     overflow: scroll ;
 
     width: 470px ;
-    height: 160px ;
+    height: 140px ;
     margin: 20px ;
 
 }
@@ -191,10 +191,15 @@ body {
     height: 200px ;
     margin: 20px ;
 
+    line-height: 3em;
 }
 
 #links-0 {
     top: -5px ;
+}
+
+#links-1 {
+    top: -10px;
 }
 
 /* Description Settings */
@@ -208,7 +213,7 @@ body {
 }
 
 #desc-0 {
-    top: 25px ;
+    top: 45px ;
 }
 
 
@@ -217,8 +222,9 @@ a {
 	text-decoration: none ;
     text-align: center ;
     display: block ;
-    margin-top: 20px ;
+    margin-top: 0px ;
 }
+
 a:hover {
     font-weight: bold ;
 }
