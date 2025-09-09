@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Writings
-rank: 2
+title: Projects
+rank: 1
 ---
 
 # Projects & Writings
