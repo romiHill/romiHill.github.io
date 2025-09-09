@@ -18,14 +18,12 @@ rank: 2
   - The Phonetics-Phonology-Syntax Interface: A Computational Implementation
     - [Proceedings of the 20th International Congress of Phonetic Sciences (ICPhS), 2024](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/629.pdf)
     - Authors: Tina Bögel, **Romi Hill**, Justin Hofenbitzer, Tianyi Zhao
+- WordSpinner: Developing a tool to convert plain-text lexicon files into dictionary webpages
+  - [Language Documentation & Conservation, 2023](https://scholarspace.manoa.hawaii.edu/items/644f42d4-ec80-461e-a4ea-8dad91afe433)
+  - Authors: Caroline Jones, Jesse Tran, Eleanor Jorgensen, **Romi Hill**, Patricia Ellis, Jane Simpson, Felicity Meakins, Ben Foley, Marcel Reverter-Rambaldi, Lowana Tudor-Smith, Paul Williams, Clair Hill, Mark Richards, Quang Vinh Nguyen
 - Murrinhpatha Noun Classifiers - Syntax and Discourse Functions
   - [Undergraduate thesis, 2019](assets/files/hill_undergrad_thesis.pdf)
   - Presentation at the Australian Languages Workshop, 2020
-
-## Other
-- [WordSpinner: Developing a tool to convert plain-text lexicon files into dictionary webpages](https://scholarspace.manoa.hawaii.edu/items/644f42d4-ec80-461e-a4ea-8dad91afe433)
-  - Authors: Caroline Jones, Jesse Tran, Eleanor Jorgensen, **Romi Hill**, Patricia Ellis, Jane Simpson, Felicity Meakins, Ben Foley, Marcel Reverter-Rambaldi, Lowana Tudor-Smith, Paul Williams, Clair Hill, Mark Richards, Quang Vinh Nguyen
-  - Language Documentation & Conservation 2023
-- [An Analysis of Motion Verbs in Hindi](https://unimelbling.github.io/journal/2019/2019journal.pdf), pp. 119 - 133
+- An Analysis of Motion Verbs in Hindi
+  - [Nuanced Garbling (Melbourne University Linguistics Club Journal), 2019, pp. 119 - 133](https://unimelbling.github.io/journal/2019/2019journal.pdf)
   - Authors: **Romi Hill**, Tiger Liu and My Ngoc Tran
-  - Nuanced Garbling (Melbourne University Linguistics Club Journal) 2019
