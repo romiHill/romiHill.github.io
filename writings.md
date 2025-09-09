@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Writings
+rank: 2
 ---
 
 # Writings
