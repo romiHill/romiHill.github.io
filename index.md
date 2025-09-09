@@ -7,4 +7,4 @@ I'm a second year PhD student in Linguistics at Boston University. I am fascinat
 
 I also work in language documentation and revitalization. Recently, I joined a project with [Harvard's WOLF lab](https://linguistics.fas.harvard.edu/wolf-lab), to document the Alabama language on the Alabama-Coushatta reservation in Texas. I am also active in the development of language resources for younger learners.
 
-Click [here](assets/files/cv.pdf) to download my CV.
+Click [here](assets/files/hill_cv.pdf) to download my CV.
