@@ -3,4 +3,5 @@ title: Romi Hill
 description: 2nd year PhD student in Linguistics
 logo: /assets/img/photo.JPG
 github:
-  is_project_page: false
+  owner_url: README
+  another_url: projects
