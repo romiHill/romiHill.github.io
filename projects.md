@@ -6,6 +6,8 @@ rank: 1
 
 # Projects & Writings
 
+- *Indonesian Reciprocals
+  - [Poster presentation at LSA, 2026](assets/files/indonesian_reciprocals_lsa_poster.pdf)
 - *Syntactic constraints on verbal reduplication in Bantu*
   - [Full masters thesis (with computational implementation), 2024](assets/files/hill_masters_thesis_full.pdf)
     - [Condensed version](assets/files/hill_masters_thesis_shortened.pdf)
