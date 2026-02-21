@@ -6,8 +6,9 @@ rank: 1
 
 # Projects & Writings
 
-- *Indonesian Reciprocals
+- *Voice-mismatch reciprocals in Indonesian as binary predicate conjunction*
   - [Poster presentation at LSA, 2026](assets/files/indonesian_reciprocals_lsa_poster.pdf)
+  - Authors: Elizabeth Coppock, Romi Hill, Neil Myler
 - *Syntactic constraints on verbal reduplication in Bantu*
   - [Full masters thesis (with computational implementation), 2024](assets/files/hill_masters_thesis_full.pdf)
     - [Condensed version](assets/files/hill_masters_thesis_shortened.pdf)
