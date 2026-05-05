@@ -6,6 +6,9 @@ rank: 1
 
 # Projects & Writings
 
+- *Infixation on the CV-Tier: Evidence from Alabama Agent Agreement*
+  - [Poster presentation at the Boston Morphology Workshop, 2026](assets/files/bmw_poster.pdf)
+  - [Supplementary Handout](assets/files/BMW_supp_handout.pdf)
 - *Voice-mismatch reciprocals in Indonesian as binary predicate conjunction*
   - [Poster presentation at LSA, 2026](assets/files/indonesian_reciprocals_lsa_poster.pdf)
   - Authors: Elizabeth Coppock, Romi Hill, Neil Myler
