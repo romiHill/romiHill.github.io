@@ -13,7 +13,7 @@ rank: 1
   - [Supplementary Handout](assets/files/BMW_supp_handout.pdf)
 - *Voice-mismatch reciprocals in Indonesian as binary predicate conjunction*, January 2026
   - [Poster presentation at LSA, 2026](assets/files/indonesian_reciprocals_lsa_poster.pdf)
-  - Authors: Elizabeth Coppock, Romi Hill, Neil Myler
+  - Authors: Elizabeth Coppock, **Romi Hill**, Neil Myler
 - *Syntactic constraints on verbal reduplication in Bantu*, May 2025
   - [Poster Presentation at Association of Contemporary African Linguistics 56 (ACAL), 2025](assets/files/hill_acal_poster.pdf)
 
@@ -32,7 +32,7 @@ rank: 1
   - [Language Documentation & Conservation, 2023](https://scholarspace.manoa.hawaii.edu/items/644f42d4-ec80-461e-a4ea-8dad91afe433)
   - Authors: Caroline Jones, Jesse Tran, Eleanor Jorgensen, **Romi Hill**, Patricia Ellis, Jane Simpson, Felicity Meakins, Ben Foley, Marcel Reverter-Rambaldi, Lowana Tudor-Smith, Paul Williams, Clair Hill, Mark Richards, Quang Vinh Nguyen
  
-  - 
+
 ### Invited Talks
 - *Syntactic constraints on verbal reduplication in Bantu*, April 2025
   - [Handout for WOLF Lab Presentation, 2025](assets/files/hill_wolf_lab_presentation.pdf)
