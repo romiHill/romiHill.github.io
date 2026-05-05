@@ -6,7 +6,7 @@ rank: 1
 
 # Projects & Writings
 
-## Conference Presentations
+### Conference Presentations
 
 - *Infixation on the CV-Tier: Evidence from Alabama Agent Agreement*, May 2026
   - [Poster presentation at the Boston Morphology Workshop, 2026](assets/files/bmw_poster.pdf)
@@ -17,7 +17,8 @@ rank: 1
 - *Syntactic constraints on verbal reduplication in Bantu*, May 2025
   - [Poster Presentation at Association of Contemporary African Linguistics 56 (ACAL), 2025](assets/files/hill_acal_poster.pdf)
 
-## Conference Proceedings
+
+### Conference Proceedings
 - *Language redundancy and acoustic salience: An account in LFG*, December 2024
   - [The Proceedings of the LFG'24 Conference](https://lfg-proceedings.org/lfg/index.php/main/article/view/60)
   - Tina Bögel, Mila Freiseis, **Romi Hill**, Daniel Wambach, Tianyi Zhao
@@ -25,18 +26,20 @@ rank: 1
   - [Proceedings of the 20th International Congress of Phonetic Sciences (ICPhS), 2024](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/629.pdf)
     - Authors: Tina Bögel, **Romi Hill**, Justin Hofenbitzer, Tianyi Zhao
 
-## Invited Talks
-- *Syntactic constraints on verbal reduplication in Bantu*, April 2025
-  - [Handout for WOLF Lab Presentation, 2025](assets/files/hill_wolf_lab_presentation.pdf)
 
-
-
-## Journal Articles
+### Journal Articles
 - *WordSpinner: Developing a tool to convert plain-text lexicon files into dictionary webpages*, August 2024
   - [Language Documentation & Conservation, 2023](https://scholarspace.manoa.hawaii.edu/items/644f42d4-ec80-461e-a4ea-8dad91afe433)
   - Authors: Caroline Jones, Jesse Tran, Eleanor Jorgensen, **Romi Hill**, Patricia Ellis, Jane Simpson, Felicity Meakins, Ben Foley, Marcel Reverter-Rambaldi, Lowana Tudor-Smith, Paul Williams, Clair Hill, Mark Richards, Quang Vinh Nguyen
  
-## Theses
+  - 
+### Invited Talks
+- *Syntactic constraints on verbal reduplication in Bantu*, April 2025
+  - [Handout for WOLF Lab Presentation, 2025](assets/files/hill_wolf_lab_presentation.pdf)
+
+
+ 
+### Theses
 - *Syntactic constraints on verbal reduplication in Bantu*, January 2024
   - [Full masters thesis (with computational implementation), 2024](assets/files/hill_masters_thesis_full.pdf)
     - [Condensed version](assets/files/hill_masters_thesis_shortened.pdf)
@@ -44,7 +47,7 @@ rank: 1
   - [Undergraduate thesis, 2019](assets/files/hill_undergrad_thesis.pdf)
   - Presentation at the Australian Languages Workshop, 2020
 
-## Other Manuscripts
+### Other Manuscripts
 - *An Analysis of Motion Verbs in Hindi*, December 2019
   - [Nuanced Garbling (Melbourne University Linguistics Club Journal), 2019, pp. 119 - 133](https://unimelbling.github.io/journal/2019/2019journal.pdf)
   - Authors: **Romi Hill**, Tiger Liu and My Ngoc Tran
