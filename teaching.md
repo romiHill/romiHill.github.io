@@ -5,6 +5,12 @@ rank: 2
 ---
 
 # Teaching
+## Boston University
+### Introduction to Programming for Computational Linguistics
+- Introduction to computational techniques to explore linguistic models and test empirical claims.
+- Serves as an introduction to programming, algorithms, and data structures, focused on modern applications to Natural Language Processing (NLP).
+- I prepared weekly lab materials (can be accessed [here](romiHill.github.io/lx394_lab_materials/).
+- September 2026 - December 2026
 
 ## University of Konstanz
 
